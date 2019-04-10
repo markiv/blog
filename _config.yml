@@ -27,7 +27,7 @@ github_username:  markiv
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 # theme: minimal-mistakes-jekyll
 # theme: jekyll-theme-minimal
 plugins:
